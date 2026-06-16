@@ -21,7 +21,7 @@ A simple portfolio website built using **HTML** and **CSS** during my early days
 ## Live Demo
 
 View the project here:
-https://stsumu.github.io/PortfolioDemo/
+[https://stsumu.github.io/PortfolioDemo/](https://stsumu.github.io/html-css-portfolio-demo/)
 
 ## Running the Project
 
