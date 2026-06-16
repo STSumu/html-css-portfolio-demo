@@ -25,5 +25,5 @@ also check the live demo at :https://stsumu.github.io/PortfolioDemo/
 
 ## Note
 
-This project was created as a learning exercise and marks one of my first attempts at building a complete website from scratch.
+This project was created as a learning exercise and marks one of my first attempts at building a complete website using resources and direction from https://github.com/ProgrammingHero1/B10-portfolio-resources
 ****
