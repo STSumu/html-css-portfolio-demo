@@ -18,12 +18,19 @@ A simple portfolio website built using **HTML** and **CSS** during my early days
 * Font Awesome
 * Google Fonts
 
+## Live Demo
+
+View the project here:
+https://stsumu.github.io/PortfolioDemo/
+
 ## Running the Project
 
 Clone the repository and open `index.html` in your browser.
-also check the live demo at :https://stsumu.github.io/PortfolioDemo/
 
 ## Note
 
-This project was created as a learning exercise and marks one of my first attempts at building a complete website using resources and direction from https://github.com/ProgrammingHero1/B10-portfolio-resources
-****
+This project was created as a learning exercise and marks one of my first attempts at building a complete website. It was developed using the resources and guidance provided by Programming Hero.
+
+Resources: https://github.com/ProgrammingHero1/B10-portfolio-resources
+
+Original Figma Design: https://www.figma.com/design/clcP2QjjXSUsWs5lWrsLoz/developer-porttfolio
